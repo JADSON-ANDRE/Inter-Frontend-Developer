@@ -1,0 +1,20 @@
+.título {
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+.corpo {
+    padding-left: 45px;
+    padding-top: 30px;
+    font-size: 30px;
+    background: -webkit-linear-gradient(rgb(155, 46, 46), rgb(77, 3, 3));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.list {
+    padding-left: 60px;
+    padding-top: 30px;
+}
