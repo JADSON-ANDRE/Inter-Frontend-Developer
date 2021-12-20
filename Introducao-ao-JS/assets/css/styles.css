@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+    color: #000;
+    text-align: center;
+    font-size: 100%;
+}
+
+.título {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: -webkit-linear-gradient(rgb(155, 46, 46), rgb(77, 3, 3));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+button {
+    height: 2%;
+    width: 2%;
+    border-radius: 50%;
+    border:rgb(202, 24, 134);
+    background-color: darksalmon;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+#currentNumber {
+    color: black;
+    margin: 10px;
+    font-size: 200%;
+    font-style: bold;
+}

@@ -1,1 +1,0 @@
-console.log("Curso de Introdução ao JS");
