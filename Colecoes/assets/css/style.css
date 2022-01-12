@@ -1,0 +1,19 @@
+.título {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(rgb(155, 46, 46), rgb(77, 3, 3));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.list {
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+p {
+    padding-left: 60px;
+    padding-right: 180px;
+}
