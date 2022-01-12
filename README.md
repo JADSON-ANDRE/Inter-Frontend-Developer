@@ -10,5 +10,5 @@ Exercícios, Desafios e Projetos propostos no Bootcamp Inter Frontend Developer.
   
 
   >*Jadson André P Silva*</br>
-  >*Analista/Desenvolvedor na DPE-BA*</br>
+  >*Analista/Desenvolvedor de Sistemas na DPE-BA*</br>
   >*Bacharel em Ciência da Computação pela UESC*</br>
